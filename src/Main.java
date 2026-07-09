@@ -1,6 +1,6 @@
 public class Main {
 
     static void main() {
-        IO.println("Francis Ma");
+        IO.println("paNGIT NI Francis Ma");
     }
 }
