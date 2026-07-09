@@ -29,7 +29,11 @@ The target users and beneficiaries of the Hospital Information System are the pe
 - Administrators - Monitor the flow of the entire hospital
 
 ### BRIEF DESCRIPTION
-<Summary of purpose and basic functionality>
+The Hospital and Laboratory Information System is a central platform designed to organize patient data, doctor check-ups, and lab workflows from start to finish. It replaces slow, manual paperwork by letting patients register, giving doctors a place to type notes and request tests, and allowing lab staff to track samples and input results directly. The program guides each patient through a clear, 10-step journey while keeping sensitive medical records secure based on who is logged in.
+
+- Purpose: To make hospital workflows organized, traceable, and fast.
+- Key Actions: Automates doctor recommendations, lab request tracking, and result delivery.
+- Target Users: Patients, Doctors, Staff, Lab Staff, and Administrators.
 
 ### CORE OOP CONCEPTS <br>
 
