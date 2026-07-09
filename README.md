@@ -25,8 +25,7 @@ To design, develop, and implement an Object-Oriented Medical and Laboratory Info
 ### BRIEF DESCRIPTION
 <Summary of purpose and basic functionality>
 
-### CORE OOP CONCEPTS
-
+### CORE OOP CONCEPTS \n
 
 #### Abstraction
 
