@@ -102,6 +102,6 @@ Possible polymorphic actions or behaviors include:
 
 ## Example Picture:
 
-![Test Image](https://imgur.com/FefnaDL)
+![Test Image](https://i.imgur.com/5jY0YUn.jpeg)
 ![Test Image](https://imgur.com/S22mJCV)
 ![Test Image](https://imgur.com/iUNiYq1)
