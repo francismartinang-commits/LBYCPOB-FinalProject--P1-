@@ -6,7 +6,7 @@ Paragas, Nash Breann C.- Nash Paragas
 Ang, Francis Martin B. - Tin Ang
 Balingit, Joshua Andrei B. - Jandrei-cpe
 
-##PROBLEM STATEMENT & GOALS:
+### PROBLEM STATEMENT & GOALS:
 To design, develop, and implement an Object-Oriented Medical and Laboratory Information System that streamlines patient care, automates clinical and laboratory workflows, and provides secure, role-based access to health data. 
 
 - To centralize patient and doctor identification along with their personal information and records
@@ -17,28 +17,28 @@ To design, develop, and implement an Object-Oriented Medical and Laboratory Info
 - To Automate Intelligent Laboratory Request Routing 
 
 
-TARGET USER:
+### TARGET USER:
 <Who will use this system?>
 
-BRIEF DESCRIPTION:
+### BRIEF DESCRIPTION:
 <Summary of purpose and basic functionality>
 
-CORE OOP CONCEPTS:
+### CORE OOP CONCEPTS:
 - Encapsulation: <where/how>
 - Inheritance: <where/how>
 - Polymorphism: <where/how>
 - Abstraction: <where/how>
 
-INITIAL CLASS IDEAS:
+### INITIAL CLASS IDEAS:
 - ClassName1: <responsibility>
 - ClassName2: <responsibility>
 - ClassName3: <responsibility>
 
-USER STORIES (Recommended):
+### USER STORIES (Recommended):
 - As a <user type>, I want to <action> so that <goal>.
 - As a <user type>, I want to <action> so that <goal>.
 
-CORE FEATURES (Recommended):
+### CORE FEATURES (Recommended):
 - <Feature 1>
 - <Feature 2>
 - <Feature 3>
