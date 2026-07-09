@@ -24,15 +24,18 @@ To design, develop, and implement an Object-Oriented Medical and Laboratory Info
 <Summary of purpose and basic functionality>
 
 ### CORE OOP CONCEPTS:
+
 #### Abstraction
 
 Abstraction will be used by creating general classes that represent the main parts of the Hospital/Lab Information System.
-Possible abstract or general classes include: 
+
+##### Possible abstract or general classes include: 
 User/Patient
 Doctor/Medic
 LaboratoryTest 
 MedicalRecord 
-Ex:
+
+##### Ex:
 
 User/Patient - name, ID
 Laboratory Test - test name, specimen type, status
