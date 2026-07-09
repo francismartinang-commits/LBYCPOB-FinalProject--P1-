@@ -25,7 +25,7 @@ To design, develop, and implement an Object-Oriented Medical and Laboratory Info
 ### BRIEF DESCRIPTION
 <Summary of purpose and basic functionality>
 
-### CORE OOP CONCEPTS \n
+### CORE OOP CONCEPTS
 
 #### Abstraction
 
@@ -52,16 +52,11 @@ Laboratory Test - test name, specimen type, status
 Encapsulation will be used to protect sensitive patient and medical information by keeping class attributes private and only reachable through public methods (getters and setters) that check the requester's role before returning or changing anything. 
 
 Possible applications:
-
-Patient - personal information, medical history (private fields, restricted getters)
-
-MedicalRecord - diagnosis, doctor's notes, findings (private fields, visible only to the assigned doctor or the patient)
-
-Visit - currentStatus (private field, changeable only through a validated method)
-
-User (any role) - username, password (private, never directly exposed to other classes)
-
-GUI - to hide unnecessary information and functions of the program
+- Patient - personal information, medical history (private fields, restricted getters)
+- MedicalRecord - diagnosis, doctor's notes, findings (private fields, visible only to the assigned doctor or the patient)
+- Visit - currentStatus (private field, changeable only through a validated method)
+- User (any role) - username, password (private, never directly exposed to other classes)
+- GUI - to hide unnecessary information and functions of the program
 
 #### Inheritance
 
