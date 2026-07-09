@@ -102,4 +102,6 @@ Possible polymorphic actions or behaviors include:
 
 ## Example Picture:
 
-![Test Image]([https://i.imgur.com/RcVBZeD.jpeg](https://www.pinterest.com/pin/713609503492935714/))
+![Test Image](https://imgur.com/FefnaDL)
+![Test Image](https://imgur.com/S22mJCV)
+![Test Image](https://imgur.com/iUNiYq1)
