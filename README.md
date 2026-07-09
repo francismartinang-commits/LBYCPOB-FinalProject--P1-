@@ -2,9 +2,9 @@
 Hospital/Lab Information System
 
 ## TEAM MEMBERS:
-Paragas, Nash Brea- <GitHub username>
-<Name 2> - <GitHub username>
-<Name 3> - <GitHub username>
+Paragas, Nash Breann C.- Nash Paragas
+Ang, Francis Martin B. - Tin Ang
+Balingit, Joshua Andrei B. - Jandrei-cpe
 (or: Solo Project - <Name> - <GitHub username>)
 
 PROBLEM STATEMENT & GOALS:
