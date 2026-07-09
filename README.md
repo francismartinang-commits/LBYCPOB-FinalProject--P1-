@@ -84,20 +84,20 @@ Possible polymorphic actions or behaviors include:
 - createRequest(String[] testNames, String priority) - processes a bundled batch of tests flagged with a specific priority level (e.g., Urgent/Stat).
 
 ### INITIAL CLASS IDEAS:
--User (Abstract class for general user info like Name, ID, and Role)
--Patient (Subclass of User to hold patient medical history and current visit status)
--Doctor (Subclass of User to manage assigned patients and write assessment notes)
--LabRequest (Class to track the test name, specimen status, and laboratory findings)
+- User (Abstract class for general user info like Name, ID, and Role)
+- Patient (Subclass of User to hold patient medical history and current visit status)
+- Doctor (Subclass of User to manage assigned patients and write assessment notes)
+- LabRequest (Class to track the test name, specimen status, and laboratory findings)
 
 ### USER STORIES (Recommended):
--As a Patient, I want to track the real-time status of my lab sample so that I know exactly when my results will be ready.
--As a Doctor, I want to create a laboratory request directly from my dashboard so that the lab staff can see it immediately without manual paperwork.
--As a Laboratory Staff member, I want to encode test findings into the system so that the doctor can review them right away.
+- As a Patient, I want to track the real-time status of my lab sample so that I know exactly when my results will be ready.
+- As a Doctor, I want to create a laboratory request directly from my dashboard so that the lab staff can see it immediately without manual paperwork.
+- As a Laboratory Staff member, I want to encode test findings into the system so that the doctor can review them right away.
 
 ### CORE FEATURES (Recommended):
--Role-Based Access Control: A secure login system that shows a different dashboard interface depending on whether the user is an Admin, Doctor, Nurse, Lab Staff, or Patient.
--Real-Time Visit Lifecycle Tracker: A step-by-step workflow tracking system that automatically updates a patient's status from "Registered" all the way to "Released".
--Intelligent Lab Request Routing: A feature that sends doctor-made lab requests straight to the correct laboratory section for analysis and allows fast-track encoding of test results.
+- Role-Based Access Control: A secure login system that shows a different dashboard interface depending on whether the user is an Admin, Doctor, Nurse, Lab Staff, or Patient.
+- Real-Time Visit Lifecycle Tracker: A step-by-step workflow tracking system that automatically updates a patient's status from "Registered" all the way to "Released".
+- Intelligent Lab Request Routing: A feature that sends doctor-made lab requests straight to the correct laboratory section for analysis and allows fast-track encoding of test results.
 
 
 ## Example Picture:
