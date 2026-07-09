@@ -1,8 +1,8 @@
-PROJECT TITLE:
-<Your project name>
+# PROJECT TITLE:
+Hospital/Lab Information System
 
-TEAM MEMBERS:
-<Name 1> - <GitHub username>
+## TEAM MEMBERS:
+Paragas, Nash Brea- <GitHub username>
 <Name 2> - <GitHub username>
 <Name 3> - <GitHub username>
 (or: Solo Project - <Name> - <GitHub username>)
