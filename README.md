@@ -5,10 +5,17 @@ Hospital/Lab Information System
 Paragas, Nash Breann C.- Nash Paragas
 Ang, Francis Martin B. - Tin Ang
 Balingit, Joshua Andrei B. - Jandrei-cpe
-(or: Solo Project - <Name> - <GitHub username>)
 
-PROBLEM STATEMENT & GOALS:
-<What problem does this solve? What are the main objectives?>
+##PROBLEM STATEMENT & GOALS:
+To design, develop, and implement an Object-Oriented Medical and Laboratory Information System that streamlines patient care, automates clinical and laboratory workflows, and provides secure, role-based access to health data. 
+
+- To centralize patient and doctor identification along with their personal information and records
+- To automate transition from visitation and consultation to a targeted Doctor Recommendation
+- To enforce role-based access control (Admins, Doctors, Patient UI)
+- To have a centralized access to clinical documentation and medical papers
+- To enable real-time specimen tracking
+- To Automate Intelligent Laboratory Request Routing 
+
 
 TARGET USER:
 <Who will use this system?>
