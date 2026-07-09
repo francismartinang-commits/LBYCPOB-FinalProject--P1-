@@ -56,7 +56,7 @@ GUI - to hide unnecessary information and functions of the program
 
 Inheritance will be used to build a hierarchy for the different types of system users. The abstract User/Patient class already identified under Abstraction can serve as a general parent class, with each specific role inheriting its shared attributes and methods, then adding its own specialized fields and behaviors. 
 
-Possible utilization for this are:
+##### Possible utilization for this are:
 User (Parent/Base class) - shared attributes (userID, name, username, password) and shared methods (login(), logout())
 Child classes: Patient, Doctor, Nurse/Staff, Laboratory Staff, Admin - each inherits the base User fields/methods, then extends them
 
@@ -69,7 +69,7 @@ displayDashboard() (Method Overriding)
 createRequest() (Method Overloading)
 updateStatus() (Method Overriding)
 
-Example:
+##### Example:
 
 displayDashboard()
 Doctor Object - displays assigned patients, clinical assessment fields, and laboratory order forms.
