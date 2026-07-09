@@ -38,6 +38,7 @@ MedicalRecord
 ##### Ex:
 
 User/Patient - name, ID
+
 Laboratory Test - test name, specimen type, status
 
 #### Encapsulation
