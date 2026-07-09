@@ -24,7 +24,7 @@ The target users and beneficiaries of the Hospital Information System are the pe
 
 - Patients - Allows them join space with doctors and get updates from processes.
 - Doctors - Transfer updates and results in an organized way. 
-- Laboratory Staff - Reduce unclear requests and allows them to encode findings 
+- Laboratory Staff - Reduce unclear requests and allow them to encode findings 
 - Staff - Traceability of patient and updates
 - Administrators - Monitor the flow of the entire hospital
 
@@ -53,7 +53,7 @@ Abstraction will be used by creating general classes that represent the main par
 
 #### Encapsulation
 
-Encapsulation will be used to protect sensitive patient and medical information by keeping class attributes private and only reachable through public methods (getters and setters) that check the requester's role before returning or changing anything. 
+Encapsulation will be used to protect sensitive patient and medical information by keeping class attributes private and accessible only through public methods (getters and setters) that verify the requester's role before returning or modifying any data. 
 
 Possible applications:
 - Patient - personal information, medical history (private fields, restricted getters)
@@ -64,9 +64,9 @@ Possible applications:
 
 #### Inheritance
 
-Inheritance will be used to build a hierarchy for the different types of system users. The abstract User/Patient class already identified under Abstraction can serve as a general parent class, with each specific role inheriting its shared attributes and methods, then adding its own specialized fields and behaviors. 
+Inheritance will be used to build a hierarchy of system user types. The abstract User/Patient class, already identified under Abstraction, can serve as a general parent class, with each specific role inheriting its shared attributes and methods, then adding its own specialized fields and behaviors. 
 
-Possible utilization for this are
+Possible utilization for this is
 - User (Parent/Base class) - shared attributes (userID, name, username, password) and shared methods (login(), logout())
 - Child classes: Patient, Doctor, Nurse/Staff, Laboratory Staff, Admin - each inherits the base User fields/methods, then extends them
 
