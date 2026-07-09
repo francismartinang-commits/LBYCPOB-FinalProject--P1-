@@ -30,9 +30,13 @@ To design, develop, and implement an Object-Oriented Medical and Laboratory Info
 Abstraction will be used by creating general classes that represent the main parts of the Hospital/Lab Information System.
 
 ##### Possible abstract or general classes include: 
+
 User/Patient
+
 Doctor/Medic
+
 LaboratoryTest 
+
 MedicalRecord 
 
 ##### Ex:
