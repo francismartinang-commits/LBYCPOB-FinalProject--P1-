@@ -22,10 +22,10 @@ To design, develop, and implement an Object-Oriented Medical and Laboratory Info
 ### TARGET USER
 The target users and beneficiaries of the Hospital Information System are the people involved in the hospital:
 
-- Patients - Allows them join space with doctors and get updates from processes.
+- Patients - Allows them to join the space with doctors and get updates from processes.
 - Doctors - Transfer updates and results in an organized way. 
 - Laboratory Staff - Reduce unclear requests and allow them to encode findings 
-- Staff - Traceability of patient and updates
+- Staff - Traceability of the patient and updates
 - Administrators - Monitor the flow of the entire hospital
 
 ### BRIEF DESCRIPTION
