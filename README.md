@@ -38,20 +38,14 @@ The target users and beneficiaries of the Hospital Information System are the pe
 Abstraction will be used by creating general classes that represent the main parts of the Hospital/Lab Information System.
 
 ##### Possible abstract or general classes include: 
-
-User/Patient
-
-Doctor/Medic
-
-LaboratoryTest 
-
-MedicalRecord 
+- User/Patient
+- Doctor/Medic
+- LaboratoryTest 
+- MedicalRecord 
 
 ##### Ex:
-
-User/Patient - name, ID
-
-Laboratory Test - test name, specimen type, status
+- User/Patient - name, ID
+- Laboratory Test - test name, specimen type, status
 
 #### Encapsulation
 
