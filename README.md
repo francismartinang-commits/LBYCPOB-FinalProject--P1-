@@ -12,7 +12,7 @@ Balingit, Joshua Andrei B. - Jandrei-cpe
 To design, develop, and implement an Object-Oriented Medical and Laboratory Information System that streamlines patient care, automates clinical and laboratory workflows, and provides secure, role-based access to health data. 
 
 - To centralize patient and doctor identification along with their personal information and records
-- To automate transition from visitation and consultation to a targeted Doctor Recommendation
+- To automate the transition from visitation and consultation to a targeted Doctor Recommendation
 - To enforce role-based access control (Admins, Doctors, Patient UI)
 - To have a centralized access to clinical documentation and medical papers
 - To enable real-time specimen tracking
@@ -22,7 +22,7 @@ To design, develop, and implement an Object-Oriented Medical and Laboratory Info
 ### TARGET USER
 The target users and beneficiaries of the Hospital Information System are the people involved in the hospital:
 
-- Patients - Allows them to join the space with doctors and get updates from processes.
+- Patients - Allows them to join the space with doctors and get updates on processes.
 - Doctors - Transfer updates and results in an organized way. 
 - Laboratory Staff - Reduce unclear requests and allow them to encode findings 
 - Staff - Traceability of the patient and updates
