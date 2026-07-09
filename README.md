@@ -1,14 +1,14 @@
-# PROJECT TITLE:
+# PROJECT TITLE
 Hospital/Lab Information System
 
-## TEAM MEMBERS:
+## TEAM MEMBERS
 Paragas, Nash Breann C.- Nash Paragas
 
 Ang, Francis Martin B. - Tin Ang
 
 Balingit, Joshua Andrei B. - Jandrei-cpe
 
-### PROBLEM STATEMENT & GOALS:
+### PROBLEM STATEMENT & GOALS
 To design, develop, and implement an Object-Oriented Medical and Laboratory Information System that streamlines patient care, automates clinical and laboratory workflows, and provides secure, role-based access to health data. 
 
 - To centralize patient and doctor identification along with their personal information and records
@@ -19,13 +19,13 @@ To design, develop, and implement an Object-Oriented Medical and Laboratory Info
 - To Automate Intelligent Laboratory Request Routing 
 
 
-### TARGET USER:
+### TARGET USER
 <Who will use this system?>
 
-### BRIEF DESCRIPTION:
+### BRIEF DESCRIPTION
 <Summary of purpose and basic functionality>
 
-### CORE OOP CONCEPTS:
+### CORE OOP CONCEPTS
 
 #### Abstraction
 
@@ -67,11 +67,9 @@ GUI - to hide unnecessary information and functions of the program
 
 Inheritance will be used to build a hierarchy for the different types of system users. The abstract User/Patient class already identified under Abstraction can serve as a general parent class, with each specific role inheriting its shared attributes and methods, then adding its own specialized fields and behaviors. 
 
-##### Possible utilization for this are:
-
-User (Parent/Base class) - shared attributes (userID, name, username, password) and shared methods (login(), logout())
-
-Child classes: Patient, Doctor, Nurse/Staff, Laboratory Staff, Admin - each inherits the base User fields/methods, then extends them
+Possible utilization for this are
+- User (Parent/Base class) - shared attributes (userID, name, username, password) and shared methods (login(), logout())
+- Child classes: Patient, Doctor, Nurse/Staff, Laboratory Staff, Admin - each inherits the base User fields/methods, then extends them
 
 #### Polymorphism
 
