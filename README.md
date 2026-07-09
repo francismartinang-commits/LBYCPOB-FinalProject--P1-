@@ -35,3 +35,7 @@ CORE FEATURES (Recommended):
 - <Feature 1>
 - <Feature 2>
 - <Feature 3>
+
+## Example Picture:
+
+![Test Image]([https://i.imgur.com/RcVBZeD.jpeg](https://www.pinterest.com/pin/713609503492935714/))
