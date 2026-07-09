@@ -14,7 +14,7 @@ To design, develop, and implement an Object-Oriented Medical and Laboratory Info
 - To centralize patient and doctor identification along with their personal information and records
 - To automate the transition from visitation and consultation to a targeted Doctor Recommendation
 - To enforce role-based access control (Admins, Doctors, Patient UI)
-- To have a centralized access to clinical documentation and medical papers
+- To have centralized access to clinical documentation and medical papers
 - To enable real-time specimen tracking
 - To Automate Intelligent Laboratory Request Routing 
 
