@@ -35,7 +35,7 @@ The Hospital and Laboratory Information System is a central platform designed to
 - Key Actions: Automates doctor recommendations, lab request tracking, and result delivery.
 - Target Users: Patients, Doctors, Staff, Lab Staff, and Administrators.
 
-### CORE OOP CONCEPTS <br>
+### CORE OOP CONCEPTS 
 
 #### Abstraction
 
