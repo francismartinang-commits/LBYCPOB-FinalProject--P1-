@@ -31,7 +31,7 @@ The target users and beneficiaries of the Hospital Information System are the pe
 ### BRIEF DESCRIPTION
 <Summary of purpose and basic functionality>
 
-### CORE OOP CONCEPTS <br?
+### CORE OOP CONCEPTS <br>
 
 #### Abstraction
 
